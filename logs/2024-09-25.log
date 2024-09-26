@@ -1,0 +1,21 @@
+{"level":"info","msg":"\u003cnil\u003e","time":"2024-09-25 11:06:38"}
+{"level":"info","msg":"Received run Task: {\"id\":2069739628,\"uid\":992,\"title\":\"minim veniam non cupidatat dolor\",\"content\":\"incididunt deserunt dolor\",\"start_time\":86627,\"end_time\":8708,\"status\":55981845,\"start\":765437646,\"limit\":97414232}","time":"2024-09-25 11:07:39"}
+{"level":"info","msg":"Received run Task: {\"id\":0,\"uid\":3,\"title\":\"FanOne\",\"content\":\"点赞！\",\"start_time\":0,\"end_time\":0,\"status\":0,\"start\":0,\"limit\":0}","time":"2024-09-25 11:10:25"}
+{"level":"info","msg":"Received run Task: {\"id\":0,\"uid\":3,\"title\":\"FanOne\",\"content\":\"点赞！\",\"start_time\":0,\"end_time\":0,\"status\":0,\"start\":0,\"limit\":0}","time":"2024-09-25 11:17:14"}
+{"level":"error","msg":"UpdateTask err:%vrecord not found","time":"2024-09-25 11:18:06"}
+{"level":"error","msg":"UpdateTask err:%vrecord not found","time":"2024-09-25 11:21:27"}
+{"level":"info","msg":"Received run Task: {\"id\":0,\"uid\":3,\"title\":\"FanOne\",\"content\":\"点赞！\",\"start_time\":0,\"end_time\":0,\"status\":0,\"start\":0,\"limit\":0}","time":"2024-09-25 11:22:41"}
+{"level":"error","msg":"UpdateTask err:%vrecord not found","time":"2024-09-25 11:23:36"}
+{"level":"error","msg":"UpdateTask err:%vrecord not found","time":"2024-09-25 11:31:32"}
+{"level":"error","msg":"UpdateTask err:%vrecord not found","time":"2024-09-25 11:48:20"}
+{"level":"error","msg":"UpdateTask err:%vrecord not found","time":"2024-09-25 11:52:31"}
+{"level":"info","msg":"\u003cnil\u003e","time":"2024-09-25 12:00:00"}
+{"level":"error","msg":"UpdateTask err:%vrecord not found","time":"2024-09-25 12:00:05"}
+{"level":"info","msg":"\u003cnil\u003e","time":"2024-09-25 12:01:35"}
+{"level":"error","msg":"UpdateTask err:%vrecord not found","time":"2024-09-25 12:01:38"}
+{"level":"error","msg":"UpdateTask err:%vrecord not found","time":"2024-09-25 12:06:08"}
+{"level":"error","msg":"UpdateTask err:%vrecord not found","time":"2024-09-25 12:22:45"}
+{"level":"error","msg":"UpdateTask err:%vrecord not found","time":"2024-09-25 12:25:53"}
+{"level":"error","msg":"UpdateTask err:%vrecord not found","time":"2024-09-25 12:26:57"}
+{"level":"error","msg":"UpdateTask err:%vrecord not found","time":"2024-09-25 12:29:04"}
+{"level":"error","msg":"UpdateTask err:%vrecord not found","time":"2024-09-25 12:30:08"}
